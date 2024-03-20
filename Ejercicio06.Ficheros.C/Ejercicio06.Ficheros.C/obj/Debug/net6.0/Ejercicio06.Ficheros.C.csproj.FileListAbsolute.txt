@@ -1,0 +1,15 @@
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio06.Ficheros.C\Ejercicio06.Ficheros.C\bin\Debug\net6.0\Ejercicio06.Ficheros.C.exe
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio06.Ficheros.C\Ejercicio06.Ficheros.C\bin\Debug\net6.0\Ejercicio06.Ficheros.C.deps.json
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio06.Ficheros.C\Ejercicio06.Ficheros.C\bin\Debug\net6.0\Ejercicio06.Ficheros.C.runtimeconfig.json
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio06.Ficheros.C\Ejercicio06.Ficheros.C\bin\Debug\net6.0\Ejercicio06.Ficheros.C.dll
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio06.Ficheros.C\Ejercicio06.Ficheros.C\bin\Debug\net6.0\Ejercicio06.Ficheros.C.pdb
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio06.Ficheros.C\Ejercicio06.Ficheros.C\obj\Debug\net6.0\Ejercicio06.Ficheros.C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio06.Ficheros.C\Ejercicio06.Ficheros.C\obj\Debug\net6.0\Ejercicio06.Ficheros.C.AssemblyInfoInputs.cache
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio06.Ficheros.C\Ejercicio06.Ficheros.C\obj\Debug\net6.0\Ejercicio06.Ficheros.C.AssemblyInfo.cs
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio06.Ficheros.C\Ejercicio06.Ficheros.C\obj\Debug\net6.0\Ejercicio06.Ficheros.C.csproj.CoreCompileInputs.cache
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio06.Ficheros.C\Ejercicio06.Ficheros.C\obj\Debug\net6.0\Ejercicio06.Ficheros.C.sourcelink.json
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio06.Ficheros.C\Ejercicio06.Ficheros.C\obj\Debug\net6.0\Ejercicio06.Ficheros.C.dll
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio06.Ficheros.C\Ejercicio06.Ficheros.C\obj\Debug\net6.0\refint\Ejercicio06.Ficheros.C.dll
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio06.Ficheros.C\Ejercicio06.Ficheros.C\obj\Debug\net6.0\Ejercicio06.Ficheros.C.pdb
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio06.Ficheros.C\Ejercicio06.Ficheros.C\obj\Debug\net6.0\Ejercicio06.Ficheros.C.genruntimeconfig.cache
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio06.Ficheros.C\Ejercicio06.Ficheros.C\obj\Debug\net6.0\ref\Ejercicio06.Ficheros.C.dll
